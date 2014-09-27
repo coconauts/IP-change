@@ -19,4 +19,4 @@ or just copying the script to your Jenkins server.
 
 Then you can enable the email notification on failures to get an email everytime the IP changes.
 
-More details in the [coconauts blog](TODO)
+More details in the [coconauts blog](http://www.coconauts.net/blog/2014/09/09/background-tasks-in-jenkins-ipchange/)
